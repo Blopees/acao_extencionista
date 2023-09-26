@@ -1,2 +1,2 @@
 # acao_extencionista
-Projeto para a matéria Ética, Cidadania e Sustentabilidade
+Projeto para a matéria de Ética, Cidadania e Sustentabilidade
