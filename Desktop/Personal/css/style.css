@@ -187,10 +187,16 @@ img {
     background: #F4F4F4 ;
 }
 
+.livros p{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0 100px;
+}
+
 .carousel-container {
     display: flex;
-    width: 800px; /* Largura máxima do carrossel (ajuste conforme necessário) */
-    height: 300px; /* Altura máxima do carrossel (ajuste conforme necessário) */
+    width: 1000px; /* Largura máxima do carrossel (ajuste conforme necessário) */
+    height: auto; /* Altura máxima do carrossel (ajuste conforme necessário) */
     padding: 20px 40px;
     margin: 0 auto;
     overflow: hidden;
@@ -215,9 +221,10 @@ img {
     margin: 0 auto;
   }
   
-  img {
-    max-width: 100%;
-    height: auto;
+  .carousel-slide img {
+    width: 200px;
+    height: 300px;
+    
   }
   
   .carousel-content {
@@ -229,17 +236,22 @@ img {
     width: 100%;
   }
   
-  h3 {
+  .carousel-content h3 {
     font-family: 'Open Sans', sans-serif; /* Use a mesma fonte que o "Sobre" */
     font-weight: 700;
     margin: 10px 0; /* Adicione um espaço entre o título e o texto */
+    font-size: 26px;
+  
   }
   
-  p {
+  .carousel-content p {
     margin: 10px 0; /* Adicione um espaço entre o texto e a legenda */
-    font-size: 20px;
-    padding: 10px 70px;
+    font-size: 16px;
+    padding-top: 14px ;
+    padding-left: 280px;
+
   }
+  
   
   /* Estilos dos botões de navegação */
   .prev-button,
@@ -250,9 +262,14 @@ img {
     border: none;
     cursor: pointer;
     margin: 10px;
+   
+    
   }
   
+  .button{
+    display: flexbox;
+  }
   .prev-button:hover,
   .next-button:hover {
-    background-color: #1D4896;
+    background-color:#1D4896;
   }
