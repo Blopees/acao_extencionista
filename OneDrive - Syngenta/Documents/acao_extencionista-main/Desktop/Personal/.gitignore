@@ -1,0 +1,46 @@
+# Arquivos e diretórios a serem ignorados
+../../.BigNox/
+../../.android/
+../../.bash_history
+../../.cache/
+../../.config/
+../../.gitconfig
+../../.gitignore
+../../.jdks/
+../../.m2/
+../../.nbi/
+../../.packettracer
+../../.redhat/
+../../.vscode/
+../../3D Objects/
+../../AppData/
+../../Cisco Packet Tracer 8.2.0/
+../../Contacts/
+../
+../../Documents/
+../../Downloads/
+../../Favorites/
+../../IdeaProjects/
+../../Links/
+../../MicrosoftEdgeBackups/
+../../Music/
+../../NTUSER.DAT
+../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+../../Nox_share/
+../../OneDrive - SENAC - SP/
+../../OneDrive/
+../../Pictures/
+../../Saved Games/
+../../Searches/
+../../Videos/
+../../iCloudDrive/
+../../inittk.ini
+../../inst.ini
+../../ntuser.dat.LOG1
+../../ntuser.dat.LOG2
+../../ntuser.ini
+../../nuuid.ini
+../../useruid.ini
+../../vmlogs/
